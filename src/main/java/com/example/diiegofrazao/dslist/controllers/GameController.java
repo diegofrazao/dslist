@@ -10,7 +10,6 @@ import org.springframework.web.bind.annotation.RestController;
 
 import com.example.diiegofrazao.dslist.dto.GameDTO;
 import com.example.diiegofrazao.dslist.dto.GameMinDTO;
-import com.example.diiegofrazao.dslist.entities.Game;
 import com.example.diiegofrazao.dslist.services.GameService;
 
 @RestController
